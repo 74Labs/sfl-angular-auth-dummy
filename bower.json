@@ -5,7 +5,7 @@
         "SFL <seventy.four.laboratories@gmail.com>"
     ],
     "description": "AngularJS dummy auth provider",
-    "main": "sfl-angular-auth-dummy.js"
+    "main": "sfl-angular-auth-dummy.js",
     "dependencies": {
     },
     "license": "MIT",
