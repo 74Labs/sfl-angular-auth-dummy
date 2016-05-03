@@ -1,0 +1,14 @@
+{
+    "name": "sfl-angular-auth-dummy",
+    "version": "1.0.0",
+    "authors": [
+        "SFL <seventy.four.laboratories@gmail.com>"
+    ],
+    "description": "AngularJS dummy auth provider",
+    "main": "sfl-angular-auth-dummy.js"
+    "dependencies": {
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/74Labs/sfl-angular-auth-dummy",
+    "private": true
+}
