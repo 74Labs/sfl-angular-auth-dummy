@@ -1,2 +1,2 @@
 # sfl-angular-auth-dummy
-AngularJS dummy auth provder.
+AngularJS dummy auth provider.
